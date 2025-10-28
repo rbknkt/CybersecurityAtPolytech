@@ -1,0 +1,16 @@
+
+
+int main()
+{
+   // Comment 1
+   const char* h = "Hello";
+
+   /* Comment 2 */            
+}
+
+/* Not closed comment.
+1
+2
+3
+4
+5 // Single comment inside */
